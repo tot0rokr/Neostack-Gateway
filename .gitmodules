@@ -1,3 +1,6 @@
 [submodule "serial_app"]
 	path = serial_app
 	url = https://github.com/tot0rokr/NeoSerial-Applications.git
+[submodule "event_proxy"]
+	path = event_proxy
+	url = https://github.com/tot0rokr/NeoSerial-EventProxy.git
