@@ -7,3 +7,6 @@
 [submodule "restapi"]
 	path = restapi
 	url = https://github.com/tot0rokr/NeoSerial-RESTAPI.git
+[submodule "nrf_sdk"]
+	path = nrf_sdk
+	url = https://github.com/tot0rokr/MeshSerial-of-nRF5-SDK-for-Mesh.git
