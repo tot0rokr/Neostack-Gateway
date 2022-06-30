@@ -1,0 +1,3 @@
+[submodule "serial_app"]
+	path = serial_app
+	url = https://github.com/tot0rokr/NeoSerial-Applications.git
